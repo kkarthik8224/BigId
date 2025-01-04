@@ -1,0 +1,16 @@
+Jan 04, 2025 12:07:13 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 04, 2025 12:07:13 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 04, 2025 12:07:13 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 04, 2025 12:07:13 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 04, 2025 12:07:13 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 04, 2025 12:07:13 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 04, 2025 12:07:14 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 04, 2025 12:07:14 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
