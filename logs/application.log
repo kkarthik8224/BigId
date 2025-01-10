@@ -14,3 +14,323 @@ Jan 04, 2025 12:07:14 PM com.stringmatcher.utils.Log logInfo
 INFO: All Threads Terminated
 Jan 04, 2025 12:07:14 PM com.stringmatcher.utils.Log logInfo
 INFO: Printing Results ...
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 04, 2025 1:11:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:31:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:31:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:31:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:31:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:31:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :12846
+Jan 10, 2025 4:31:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:31:22 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:31:22 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:42:23 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:42:23 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:42:23 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:42:23 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:42:23 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:42:23 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:42:24 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:42:24 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:43:32 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:44:47 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:44:47 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:44:47 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:44:47 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:44:47 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:44:47 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:44:48 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:44:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:45:36 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:45:36 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:45:36 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:45:36 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:45:36 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:45:36 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:45:37 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:45:37 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:46:18 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:46:18 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:46:18 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:46:18 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:46:18 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:46:18 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:46:19 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:46:19 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:47:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:47:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:47:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:47:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:47:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:47:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:47:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :2
+Jan 10, 2025 4:47:21 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:47:22 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:47:22 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:49:08 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:49:49 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:49:49 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:49:49 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:49:49 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:49:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:49:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:49:50 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:49:50 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:50:01 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 4:51:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 4:51:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 4:51:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 4:51:09 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 4:51:10 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 4:51:10 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 4:51:10 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 4:51:10 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:03:44 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:03:44 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:03:44 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:03:44 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:03:45 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:03:45 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:03:45 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:03:45 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:03:54 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:05:58 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:05:59 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:08:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:08:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:08:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:08:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:08:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:08:48 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:08:49 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:08:49 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:09:39 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:09:39 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:09:39 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:09:39 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:09:40 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:09:40 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:09:40 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:09:40 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:10:57 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:10:57 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:10:57 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:10:57 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:10:57 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:10:57 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:10:58 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:10:58 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...
+Jan 10, 2025 5:12:34 PM com.stringmatcher.utils.Log logInfo
+INFO: Execution Starts
+Jan 10, 2025 5:12:34 PM com.stringmatcher.utils.Log logInfo
+INFO: Intialisation Done
+Jan 10, 2025 5:12:34 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Reader Thread
+Jan 10, 2025 5:12:34 PM com.stringmatcher.utils.Log logInfo
+INFO: Initiating Matcher Threads
+Jan 10, 2025 5:12:35 PM com.stringmatcher.utils.Log logInfo
+INFO: Total Batches :129
+Jan 10, 2025 5:12:35 PM com.stringmatcher.utils.Log logInfo
+INFO: Executor Cleanup
+Jan 10, 2025 5:12:35 PM com.stringmatcher.utils.Log logInfo
+INFO: All Threads Terminated
+Jan 10, 2025 5:12:35 PM com.stringmatcher.utils.Log logInfo
+INFO: Printing Results ...

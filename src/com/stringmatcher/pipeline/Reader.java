@@ -31,8 +31,9 @@ public class Reader {
                 	 
                 	 queueBlock.getMatcherQueue().put(new DataChunk(batch.toString(), lineOffset, (long)charOffset - batch.length(), batchNumber));
                      batch.setLength(0);
-                     lineCount = 0;
                      lineOffset += (long) batchSize;
+                     lineCount = 0;
+                     
                      batchNumber++;
                     
                  }
