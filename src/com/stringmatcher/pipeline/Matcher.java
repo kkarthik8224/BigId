@@ -45,6 +45,7 @@ public class Matcher {
                // Split String as array and store instead of chunk of text
                // then read line by line in matcher -> 
                // Updated output can be found in output2.txt file
+		// no changes needed in producer code, no need to take it as array of String Input
            
                 results.computeIfAbsent(name, _ -> new ArrayList<>())
                        .add(new Location(lineNumber, (long)charCount ));
