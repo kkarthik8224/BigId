@@ -41,6 +41,9 @@ public class Matcher {
                if (notFound) { lineNumber ++; charCount=0;}
             	// THe same logic can be done in Reader File /producer also
                	// If the changes has to be done there, store the text as array of strings directly there and read it here
+               // Changes needs to be done in reader
+               // Split String as array and store instead of chunk of text
+               // then read line by line in matcher -> 
                // Updated output can be found in output2.txt file
            
                 results.computeIfAbsent(name, _ -> new ArrayList<>())
