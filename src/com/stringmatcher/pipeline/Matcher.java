@@ -36,7 +36,7 @@ public class Matcher {
             		   notFound =false;
             		  break;
             	   }
-            	   charCount +=word.length();;
+            	   charCount +=word.length(); //Add +1 here to read space also
                }
                if (notFound) { lineNumber ++; charCount=0;}
             	// THe same logic can be done in Reader File /producer also
